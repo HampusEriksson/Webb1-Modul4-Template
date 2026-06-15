@@ -7,7 +7,15 @@ Din uppgift är att styla sidan med hjälp av Bootstrap. Du har mer frihet i den
 - [Bootstrap dokumentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - För att testa sidan på olika skärmstorlekar: `Ctrl + Shift + I` och sedan `Ctrl + Shift + M`
 
-### Bootstrap-koncept att använda
+## TODO – Uppgifter
+1. Fixa en snygg header / nav med bootstraps inbyggda navbar
+2. Lägg in din header / nav på alla 3 html-sidor
+3. Movies.html - Lägg till info för dina 3 favoritfilmer, förslagsvis med bootstrapkomponenten card
+3. Music.html - Lägg till info för dina 3 favoritartister, förslagsvis med bootstrapkomponenten list group
+3. Movies.html - Lägg till info för dina 3 favoritserier, förslagsvis med bootstrapkomponenten grid
+
+
+### Bootstrap-koncept du kan använda
 - Container
 - Row
 - Column
@@ -18,21 +26,6 @@ Din uppgift är att styla sidan med hjälp av Bootstrap. Du har mer frihet i den
 - Justify-content
 - Align-items
 - Komponenter (t.ex. Navbar & knappar)
-
----
-
-## TODO – Uppgifter
-
-- [ ] Styla **header**
-- [ ] Styla **nav**
-- [ ] Styla **footer**
-- [ ] Se till att sidan ser snygg ut oavsett skärmstorlek
-- [ ] Lägg till info om dina 3 favoriter inom film, musik och serier på respektive sidor
-    - Du får lägga till fler än 3 på varje sida
-    - Lägg till en bild på var och en av dem, bilden ska vara responsiv(t.ex. med klassen .img-fluid)
-    - Styla dessa så att de har en fokuserad placering på sidan
-- [ ] Styla dina 3 sidor om **musik, serier och filmer** på olika sätt
-
 
 ---
 
